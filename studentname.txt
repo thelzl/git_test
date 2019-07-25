@@ -11,10 +11,11 @@
 # 8. Open a pull request from the new branch to the original repo.
 
 # Please put your name below:
+Haibo Nie
 Charlie_Lee
 Zizheng Wang
 Gary Huang
 chen hong
 Yao Liu
-# Yueer Chen
+Yueer Chen
 
