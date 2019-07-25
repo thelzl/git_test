@@ -11,6 +11,7 @@
 # 8. Open a pull request from the new branch to the original repo.
 
 # Please put your name below:
+Zizheng Wang
 Gary Huang
 chen hong
 Yao Liu
